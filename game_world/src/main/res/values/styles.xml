@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景透明的全屏style -->
+	<style name="payment_sdk_uucun_theme_FullScreen_translucent" parent="android:Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>    
+    </style>
+    
+	<style name="payment_sdk_uucun_ResourcesLoadingProgress" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/payment_uucun_resource_progress_medium</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+        <item name="android:maxWidth">20dp</item>  
+    </style>
+    
+   <style name="payment_uucun_ResourcesLoadingProgress" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/payment_uucun_resource_progress_medium</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+        <item name="android:maxWidth">20dp</item>  
+    </style>
+    
+	<style name="payment_uucun_HeaderTextTitle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">47dp</item>
+  		<item name="android:textSize">18sp</item>
+  		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:gravity">center_horizontal</item>
+  		<item name="android:layout_alignParentTop">true</item>
+  		<item name="android:shadowColor">#373535</item>
+  		<item name="android:shadowDx">0.4</item>
+		<item name="android:shadowDy">0.4</item>
+		<item name="android:shadowRadius">3</item>
+		<item name="android:background">@drawable/payment_uucun_header</item>
+		<item name="android:layout_centerHorizontal">true</item>
+		<item name="android:layout_marginTop">0dp</item>
+		<item name="android:paddingTop">6dp</item>
+ 	</style>
+ 	
+	<!-- 背景透明的全屏style -->
+	<style name="payment_uucun_theme_FullScreen_translucent" parent="android:Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>    
+    </style>
+	
+	<!-- theme_FullScreen 是样式的名字，后面是父类样子 -->
+    <style name="payment_uucun_theme_FullScreen" parent="android:Theme.Black">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>
+ 	
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/payment_uucun_transparent</item> 
+        <item name="android:windowIsTranslucent">true</item>    
+        <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+        
+    </style>
+	
+    <style name="payment_uucun_NoTitleDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+         <item name="android:windowBackground">@color/payment_uucun_transparent</item>
+        <item name="android:windowIsTranslucent">true</item>    
+        <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+    </style>
+    
+</resources>

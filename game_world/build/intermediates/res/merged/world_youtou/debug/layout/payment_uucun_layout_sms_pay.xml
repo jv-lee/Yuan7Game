@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="312dip"
+        android:layout_height="350dip"
+        android:layout_centerInParent="true" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="288dip"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:background="@drawable/payment_uucun_sms_pay_bg" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="290dip"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip" >
+
+            <RelativeLayout
+                android:id="@+id/layout_header"
+                android:layout_width="fill_parent"
+                android:layout_height="47dip"
+                android:background="#00000000" >
+
+                <TextView
+                    android:id="@+id/title"
+                    style="@style/payment_uucun_HeaderTextTitle"
+                    android:paddingTop="12dip"
+                    android:text="短信支付" />
+
+                <Button
+                    android:id="@+id/payment_uucun_btn_back"
+                    android:layout_width="62dp"
+                    android:layout_height="29dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/payment_uucun_btn_back"
+                    android:textColor="@android:color/white" 
+                    android:text="取消">
+                </Button>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@id/layout_header"
+                android:layout_marginBottom="6dip"
+                android:layout_marginLeft="6dip"
+                android:layout_marginRight="6dip"
+                android:layout_marginTop="6dip"
+                android:background="@drawable/payment_uucun_sms_msg_bg" >
+
+             <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="45dip"
+                    android:layout_marginLeft="6dip"
+                    android:layout_marginRight="6dip"
+                    android:layout_marginTop="6dip">
+                
+                <RelativeLayout
+                    android:id="@+id/payment_uucun_layout_sms_pay_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="52dip"
+                    android:layout_marginLeft="6dip"
+                    android:layout_marginRight="6dip"
+                    android:layout_marginTop="6dip"
+                    android:background="@drawable/payment_uucun_sms_markwrods_bg" >
+                    
+                    <RelativeLayout
+                        android:id="@+id/payment_uucun_layout_pay_msg_1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="3dip"
+                        android:layout_marginRight="3dip"
+                        android:layout_marginTop="3dip" >
+
+                        <!-- 第一个图标 -->
+
+                        <Button
+                            android:id="@+id/btn_tip_icon1"
+                            android:layout_width="16dp"
+                            android:layout_height="16dp"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/payment_uucun_tip_icon"
+                            android:gravity="center"
+                            android:text="1"
+                            android:textColor="#FFFFFF"
+                            android:textSize="11sp" >
+                        </Button>
+
+                        <TextView
+                            android:id="@+id/payment_uucun_tv_money"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dip"
+                            android:layout_toRightOf="@id/btn_tip_icon1"
+                            android:text="让你迅速摆脱练级的苦恼。道具收费2元"
+                            android:textColor="@android:color/black"
+                            android:textSize="20sp" >
+                        </TextView>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/payment_uucun_layout_pay_msg_2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/payment_uucun_layout_pay_msg_1"
+                        android:layout_marginLeft="3dip"
+                        android:layout_marginRight="3dip"
+                        android:layout_marginTop="10dip" >
+
+                        <!-- 第二个图标 -->
+
+                        <Button
+                            android:id="@+id/btn_tip_icon2"
+                            android:layout_width="16dp"
+                            android:layout_height="16dp"
+                            android:layout_below="@id/btn_tip_icon1"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/payment_uucun_tip_icon"
+                            android:gravity="center"
+                            android:text="2"
+                            android:textColor="#FFFFFF"
+                            android:textSize="11sp" >
+                        </Button>
+
+                        <TextView
+                            android:id="@+id/payment_uucun_tv_server_tip"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dip"
+                            android:layout_toRightOf="@id/btn_tip_icon2"
+                            android:text="您将选择使用由广东怡启公司提供的轮回小秘书业务，信息费1元/条，继续点播付费短信开始享受服务，返回则不扣费。客服电话：4006788456"
+                            android:textColor="@android:color/black"
+                            android:textSize="13sp" >
+                        </TextView>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/payment_uucun_layout_pay_msg_3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/payment_uucun_layout_pay_msg_2"
+                        android:layout_marginLeft="3dip"
+                        android:layout_marginRight="3dip"
+                        android:layout_marginTop="10dip" >
+
+                        <!-- 第三个图标 -->
+
+                        <Button
+                            android:id="@+id/btn_tip_icon3"
+                            android:layout_width="16dp"
+                            android:layout_height="16dp"
+                            android:layout_below="@id/btn_tip_icon2"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/payment_uucun_tip_icon"
+                            android:gravity="center"
+                            android:text="3"
+                            android:textColor="#FFFFFF"
+                            android:textSize="11sp" >
+                        </Button>
+
+                        <TextView
+                            android:id="@+id/payment_uucun_tv_send_sms_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dip"
+                            android:layout_toRightOf="@id/btn_tip_icon3"
+                            android:text="需要发送2条扣费短信。请点击按钮进行支付。"
+                            android:textColor="@android:color/black"
+                            android:textSize="14sp" >
+                        </TextView>
+                    </RelativeLayout>
+                </RelativeLayout>
+                </ScrollView>
+
+                <Button
+                    android:id="@+id/payment_uucun_ok"
+                    android:layout_width="fill_parent"
+                    android:layout_height="34dip"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="5dip"
+                    android:layout_marginLeft="9dip"
+                    android:layout_marginRight="9dip"
+                    android:text="确定"
+                    android:background="@drawable/payment_uucun_sms_pay_ok_btn_pressed"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

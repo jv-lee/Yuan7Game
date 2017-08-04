@@ -1,0 +1,204 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.0"
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    defaultConfig {
+        applicationId "orgss.myservice.catsave"
+        minSdkVersion 8
+        targetSdkVersion 8
+        versionCode 3
+        versionName "3.0.0"
+
+        ndk {
+            moduleName "cocos2dcpp_shared"
+        }
+
+        sourceSets.main {
+            jniLibs.srcDir 'jniLibs'
+            jni.srcDirs = []
+        }
+    }
+
+    productFlavors {
+
+        //元气key
+        tanke_yuanqi {
+//            applicationId "***.***.***"
+            resValue("string", "app_name", "疯狂坦克");
+
+            resValue("string", "uMengKey", "59844f09e88bad1257000a91");
+            resValue("string", "uMengChannel", "yuanqi");//渠道
+
+            resValue("string", "gw_gameId", "16");
+            resValue("string", "gw_packageId", "16");
+
+            resValue("string", "bfg_key", "67028c4ae61fb1fd5d32d732a784b284"); //渠道key会变
+            resValue("string", "bfg_appName", "疯狂坦克");
+            resValue("string", "bfg_productName", "超级坦克");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
+            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102426");
+            resValue("string", "qp_channelId", "C0UB5");//渠道
+            resValue("string", "qp_point", "06UA");
+
+            resValue("string", "wy_appCode", "20821517");
+            resValue("string", "wy_packCode", "y7_tanke");//渠道
+            resValue("integer", "wy_feeCode", "70360844");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1661");
+            resValue("string", "zz_key", "7BE71D574346CA748D3FA8F6EC87C6E4");
+            resValue("string", "zz_feeCode", "23445");
+            resValue("string", "zz_channel", "y7_tanke");//渠道
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "620")
+            resValue("integer", "pz_channel", "11660")
+            resValue("integer", "pz_price", "20")
+        }
+
+        //优投key
+        tanke_youtou {
+//            applicationId "***.***.***"
+            resValue("string", "app_name", "疯狂坦克");
+
+            resValue("string", "uMengKey", "5981784365b6d6609f001902");
+            resValue("string", "uMengChannel", "yanyan");//渠道
+
+            resValue("string", "gw_gameId", "17");
+            resValue("string", "gw_packageId", "17");
+
+            resValue("string", "bfg_key", "16820a0084591615434d5354663d8580"); //渠道key会变
+            resValue("string", "bfg_appName", "疯狂坦克");
+            resValue("string", "bfg_productName", "超级坦克");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
+            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102426");
+            resValue("string", "qp_channelId", "C0UBW");//渠道
+            resValue("string", "qp_point", "06UA");
+
+            resValue("string", "wy_appCode", "20821517");
+            resValue("string", "wy_packCode", "yanyan_tanke");//渠道
+            resValue("integer", "wy_feeCode", "70360844");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1661");
+            resValue("string", "zz_key", "7BE71D574346CA748D3FA8F6EC87C6E4");
+            resValue("string", "zz_feeCode", "23445");
+            resValue("string", "zz_channel", "yanyan_tanke");//渠道
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "609")
+            resValue("integer", "pz_channel", "11591")
+            resValue("integer", "pz_price", "20")
+        }
+
+        //优投 simple
+        tanke_youtouSimple {
+//            applicationId "***.***.***"
+            resValue("string", "app_name", "疯狂坦克-优投");
+
+            resValue("string", "uMengKey", "5981784365b6d6609f001902");
+            resValue("string", "uMengChannel", "yanyan");//渠道
+
+            resValue("string", "gw_gameId", "17");
+            resValue("string", "gw_packageId", "17");
+
+            resValue("string", "bfg_key", "16820a0084591615434d5354663d8580"); //渠道key会变
+            resValue("string", "bfg_appName", "疯狂坦克");
+            resValue("string", "bfg_productName", "超级坦克");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
+            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102426");
+            resValue("string", "qp_channelId", "C0UBW");//渠道
+            resValue("string", "qp_point", "06UA");
+
+            resValue("string", "wy_appCode", "20821517");
+            resValue("string", "wy_packCode", "yanyan_tanke");//渠道
+            resValue("integer", "wy_feeCode", "70360844");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1661");
+            resValue("string", "zz_key", "7BE71D574346CA748D3FA8F6EC87C6E4");
+            resValue("string", "zz_feeCode", "23445");
+            resValue("string", "zz_channel", "yanyan_tanke");//渠道
+            resValue("string", "zz_price", "2000");
+        }
+
+        //测试
+        tanke_Test {
+            applicationId "com.nechhsl.lsdof"
+            resValue("string", "app_name", "我的世界");
+
+            resValue("string", "uMengKey", "5981806b45297d395f000747");
+            resValue("string", "uMengChannel", "yuanqi");
+
+            resValue("string", "gw_gameId", "15");
+            resValue("string", "gw_packageId", "15");
+
+            resValue("string", "bfg_key", "68ae846a8d99270ee3f766dc9da43012");
+            resValue("string", "bfg_appName", "我的世界");
+            resValue("string", "bfg_productName", "霹雳闪电");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
+            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102433");
+            resValue("string", "qp_channelId", "C0UB5");
+            resValue("string", "qp_point", "06VA");
+
+            resValue("string", "wy_appCode", "20883518");
+            resValue("string", "wy_packCode", "y7_wdsj");
+            resValue("integer", "wy_feeCode", "70786197");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1640");
+            resValue("string", "zz_key", "11D9FE31C60FF5AFFA78FDB445150FB2");
+            resValue("string", "zz_feeCode", "23292");
+            resValue("string", "zz_channel", "y7_wdsj");
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "609")
+            resValue("integer", "pz_channel", "11591")
+            resValue("integer", "pz_price", "20")
+        }
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/libcocos2dx.jar')
+    compile files('libs/umeng-analytics-v6.1.1.jar')
+    compile files('libs/utdid4all-1.0.4.jar')
+    compile files('libs/pay.jar')
+    compile files('libs/onib.jar')
+    provided files('src/main/runtime/onib_ref.jar')
+}

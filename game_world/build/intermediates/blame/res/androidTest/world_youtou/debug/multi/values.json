@@ -1,0 +1,364 @@
+[
+    {
+        "outputFile": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\incremental\\mergeWorld_youtouDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 46,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 41,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 45,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 42,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 49,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 43,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 62,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 88,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 65,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 89,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 61,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 69,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 86,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 61,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 64,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 61,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 61,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 67,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 62,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 68,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 82,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endColumn": 68,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 72,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endColumn": 62,
+                    "endOffset": 1526
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1531,
+                    "endColumn": 71,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 65,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 88,
+                    "endOffset": 1753
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1758,
+                    "endColumn": 62,
+                    "endOffset": 1816
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1821,
+                    "endColumn": 64,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\androidTest\\world_youtou\\debug\\values\\generated.xml"
+                }
+            }
+        ]
+    }
+]

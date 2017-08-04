@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/payment_uucun_dialog_border_color"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="260dp"
+        android:layout_height="200dp"
+        android:layout_margin="1dp"
+        android:background="#EDF5FA"
+        android:orientation="vertical"
+        android:paddingBottom="1dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:background="@drawable/payment_uucun_ap_text_title_bg" >
+
+            <TextView
+                android:id="@+id/payment_uucun_ap_text_title_tv"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="#FFFFFF"
+                android:text="@string/payment_uucun_pay_tips"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:layout_width="fill_parent"
+                android:fadingEdge="none"
+                android:layout_height="110dp" >
+
+                <TextView
+                    android:id="@+id/payment_uucun_ap_text_desc_tv"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:lineSpacingExtra="2dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:textColor="#333333"
+                    android:text="更新信息在这里"
+                    android:textSize="16sp" />
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/payment_uucun_ap_btns_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#EDF5FA"
+            android:gravity="center"
+            android:paddingLeft="17dp"
+            android:paddingRight="17dp" >
+
+            <Button
+                android:id="@+id/payment_uucun_ap_sure_btn"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="@string/payment_uucun_ok"
+                 />
+            
+             <Button
+                android:id="@+id/payment_uucun_ap_cancel_btn"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="@string/payment_uucun_cancel"
+                android:layout_marginLeft="20dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

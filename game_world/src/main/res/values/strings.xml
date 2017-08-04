@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_name">我的世界</string>-->
+    <string name="payment_uucun_ok">确定</string>
+    <string name="payment_uucun_cancel">取消</string>
+    <string name="payment_uucun_update">更新</string>
+    <string name="payment_uucun_plugin_update">插件更新</string>
+    <string name="payment_uucun_plugin_update_text">需要更新此插件,才可以进行使用,插件大小为:%s</string>
+    <string name="payment_uucun_pay_tips">资费提示</string>
+    <string name="payment_uucun_network_tips">网络提示</string>
+    <string name="payment_uucun_set_network">设置网络</string>
+    <string name="payment_uucun_network_tips_content">您需要将网络设置为cmwap，才能继续进行付费操作</string>
+
+    <!--&lt;!&ndash; 优投 我的世界 begin&ndash;&gt;-->
+    <!--<string name="uMengKey">5981806b45297d395f000747</string>-->
+    <!--<string name="uMengChannel">youtou</string>-->
+
+    <!--<string name="gw_gameId">18</string>-->
+    <!--<string name="gw_packageId">18</string>-->
+
+    <!--<string name="bfg_key">4ffb72831398f597ec2a0d6e62693736</string>-->
+    <!--<string name="bfg_appName">我的世界</string>-->
+    <!--<string name="bfg_productName">霹雳闪电</string>-->
+    <!--<string name="bfg_point">20</string>-->
+    <!--<string name="bfg_activityName">com.y7.smspay.Activity</string>-->
+    <!--<string name="bfg_serviceName">com.y7.smspay.Service</string>-->
+
+    <!--<integer name="qp_cpId">1454</integer>-->
+    <!--<integer name="qp_appId">102433</integer>-->
+    <!--<string name="qp_channelId">youtou</string>-->
+    <!--<string name="qp_point">06VA</string>-->
+
+    <!--<string name="wy_appCode">20883518</string>-->
+    <!--<string name="wy_packCode">youtou_wdsj</string>-->
+    <!--<integer name="wy_feeCode">70786197</integer>-->
+    <!--<integer name="wy_price">2000</integer>-->
+
+    <!--<string name="zz_userId">50181</string>-->
+    <!--<string name="zz_appId">1640</string>-->
+    <!--<string name="zz_key">11D9FE31C60FF5AFFA78FDB445150FB2</string>-->
+    <!--<string name="zz_feeCode">23292</string>-->
+    <!--<string name="zz_channel">youtou_wdsj</string>-->
+    <!--<string name="zz_price">2000</string>-->
+    <!--&lt;!&ndash; 优投 我的世界 end&ndash;&gt;-->
+
+    <!--&lt;!&ndash; 元气 我的世界 begin&ndash;&gt;-->
+    <!--<string name="uMengKey">5981806b45297d395f000747</string>-->
+    <!--<string name="uMengChannel">yuanqi</string>-->
+
+    <!--<string name="gw_gameId">15</string>-->
+    <!--<string name="gw_packageId">15</string>-->
+
+    <!--<string name="bfg_key">68ae846a8d99270ee3f766dc9da43012</string>-->
+    <!--<string name="bfg_appName">我的世界</string>-->
+    <!--<string name="bfg_productName">霹雳闪电</string>-->
+    <!--<string name="bfg_point">20</string>-->
+    <!--<string name="bfg_activityName">com.y7.smspay.Activity</string>-->
+    <!--<string name="bfg_serviceName">com.y7.smspay.Service</string>-->
+
+    <!--<integer name="qp_cpId">1454</integer>-->
+    <!--<integer name="qp_appId">102433</integer>-->
+    <!--<string name="qp_channelId">yuanqi</string>-->
+    <!--<string name="qp_point">06VA</string>-->
+
+    <!--<string name="wy_appCode">20883518</string>-->
+    <!--<string name="wy_packCode">y7_wdsj</string>-->
+    <!--<integer name="wy_feeCode">70786197</integer>-->
+    <!--<integer name="wy_price">2000</integer>-->
+
+    <!--<string name="zz_userId">50181</string>-->
+    <!--<string name="zz_appId">1640</string>-->
+    <!--<string name="zz_key">11D9FE31C60FF5AFFA78FDB445150FB2</string>-->
+    <!--<string name="zz_feeCode">23292</string>-->
+    <!--<string name="zz_channel">y7_wdsj</string>-->
+    <!--<string name="zz_price">2000</string>-->
+    <!--&lt;!&ndash; 元气 我的世界 end&ndash;&gt;-->
+</resources>

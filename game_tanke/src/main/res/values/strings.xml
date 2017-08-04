@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_name">疯狂坦克</string>-->
+
+    <!--&lt;!&ndash; 优投 疯狂坦克 begin&ndash;&gt;-->
+    <!--<string name="uMengKey">5981784365b6d6609f001902</string>-->
+    <!--<string name="uMengChannel">youtou</string>-->
+
+    <!--<string name="gw_gameId">17</string>-->
+    <!--<string name="gw_packageId">17</string>-->
+
+    <!--<string name="bfg_key">639c44056fa0c6b84b6ac846671cd283</string>-->
+    <!--<string name="bfg_appName">疯狂坦克</string>-->
+    <!--<string name="bfg_productName">超级坦克</string>-->
+    <!--<string name="bfg_point">20</string>-->
+    <!--<string name="bfg_activityName">com.y7.smspay.Activity</string>-->
+    <!--<string name="bfg_serviceName">com.y7.smspay.Service</string>-->
+
+    <!--<integer name="qp_cpId">1454</integer>-->
+    <!--<integer name="qp_appId">102426</integer>-->
+    <!--<string name="qp_channelId">youtou</string>-->
+    <!--<string name="qp_point">06UA</string>-->
+
+    <!--<string name="wy_appCode">20821517</string>-->
+    <!--<string name="wy_packCode">youtou_tanke</string>-->
+    <!--<integer name="wy_feeCode">70360844</integer>-->
+    <!--<integer name="wy_price">2000</integer>-->
+
+    <!--<string name="zz_userId">50181</string>-->
+    <!--<string name="zz_appId">1661</string>-->
+    <!--<string name="zz_key">7BE71D574346CA748D3FA8F6EC87C6E4</string>-->
+    <!--<string name="zz_feeCode">23445</string>-->
+    <!--<string name="zz_channel">youtou_tanke</string>-->
+    <!--<string name="zz_price">2000</string>-->
+    <!--&lt;!&ndash; 优投 我的世界 end&ndash;&gt;-->
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_network_tips.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_network_tips.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_main.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_main.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_pay_tips_dialog.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_pay_tips_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_layout_localsms_pay.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_layout_localsms_pay.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_progress_overlay.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_progress_overlay.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_layout_sms_pay.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_layout_sms_pay.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_update_dialog.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\umeng_common_download_notification.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_pay_result.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_pay_result.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_sdk_uucun_main.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_sdk_uucun_main.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\layout\\payment_uucun_splash.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\layout\\payment_uucun_splash.xml"
+    }
+]

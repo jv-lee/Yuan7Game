@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workspaces\Android Studio\Yuan7Game\game_world\src\main\shaders"/></dataSet><dataSet config="world_youtou"><source path="D:\Workspaces\Android Studio\Yuan7Game\game_world\src\world_youtou\shaders"/></dataSet><dataSet config="debug"><source path="D:\Workspaces\Android Studio\Yuan7Game\game_world\src\debug\shaders"/></dataSet><dataSet config="world_youtouDebug"><source path="D:\Workspaces\Android Studio\Yuan7Game\game_world\src\world_youtouDebug\shaders"/></dataSet></merger>

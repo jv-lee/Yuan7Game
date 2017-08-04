@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Yuan7Game.iml" filepath="$PROJECT_DIR$/Yuan7Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game_tanke/game_tanke.iml" filepath="$PROJECT_DIR$/game_tanke/game_tanke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game_world/game_world.iml" filepath="$PROJECT_DIR$/game_world/game_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_sms_pay/library_sms_pay.iml" filepath="$PROJECT_DIR$/library_sms_pay/library_sms_pay.iml" />
+    </modules>
+  </component>
+</project>

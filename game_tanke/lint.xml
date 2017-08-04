@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="HardcodedDebugMode">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="MangledCRLF">
+        <ignore path="res/layout/payment_sdk_uucun_main.xml" />
+    </issue>
+    <issue id="NotSibling">
+        <ignore path="res/layout/payment_uucun_layout_localsms_pay.xml" />
+        <ignore path="res/layout/payment_uucun_layout_sms_pay.xml" />
+    </issue>
+</lint>

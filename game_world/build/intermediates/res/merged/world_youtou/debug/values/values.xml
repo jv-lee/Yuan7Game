@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="payment_uucun_dialog_border_color">#1B66AB</color>
+    <color name="payment_uucun_ok_btn_color">#315675</color>
+    <color name="payment_uucun_transparent">#9000</color>
+    <drawable name="payment_uucun_darkgray">#dadada</drawable>
+    <drawable name="payment_uucun_white">#FFFFFFFF</drawable>
+    <integer name="pz_channel">11591</integer>
+    <integer name="pz_price">20</integer>
+    <integer name="qp_appId">102433</integer>
+    <integer name="qp_cpId">1454</integer>
+    <integer name="wy_feeCode">70786197</integer>
+    <integer name="wy_price">2000</integer>
+    <string name="app_name" translatable="false">我的世界</string>
+    <string name="bfg_activityName" translatable="false">com.y7.smspay.Activity</string>
+    <string name="bfg_appName" translatable="false">我的世界</string>
+    <string name="bfg_key" translatable="false">e43ec674bd25ea60db94bc5866ccfd7e</string>
+    <string name="bfg_point" translatable="false">20</string>
+    <string name="bfg_productName" translatable="false">霹雳闪电</string>
+    <string name="bfg_serviceName" translatable="false">com.y7.smspay.Service</string>
+    <string name="gw_gameId" translatable="false">18</string>
+    <string name="gw_packageId" translatable="false">18</string>
+    <string name="payment_uucun_cancel">取消</string>
+    <string name="payment_uucun_network_tips">网络提示</string>
+    <string name="payment_uucun_network_tips_content">您需要将网络设置为cmwap，才能继续进行付费操作</string>
+    <string name="payment_uucun_ok">确定</string>
+    <string name="payment_uucun_pay_tips">资费提示</string>
+    <string name="payment_uucun_plugin_update">插件更新</string>
+    <string name="payment_uucun_plugin_update_text">需要更新此插件,才可以进行使用,插件大小为:%s</string>
+    <string name="payment_uucun_set_network">设置网络</string>
+    <string name="payment_uucun_update">更新</string>
+    <string name="pz_appid" translatable="false">609</string>
+    <string name="qp_channelId" translatable="false">C0UBW</string>
+    <string name="qp_point" translatable="false">06VA</string>
+    <string name="uMengChannel" translatable="false">yanyan</string>
+    <string name="uMengKey" translatable="false">5981806b45297d395f000747</string>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_download_failed">Download Failed! </string>
+    <string name="umeng_common_download_finish">Download finished,click to install it.</string>
+    <string name="umeng_common_download_notification_prefix">Downloading: </string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+    <string name="umeng_common_start_download_notification">Download start.</string>
+    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <string name="wy_appCode" translatable="false">20883518</string>
+    <string name="wy_packCode" translatable="false">yanyan_wdsj</string>
+    <string name="zz_appId" translatable="false">1640</string>
+    <string name="zz_channel" translatable="false">yanyan_wdsj</string>
+    <string name="zz_feeCode" translatable="false">23292</string>
+    <string name="zz_key" translatable="false">11D9FE31C60FF5AFFA78FDB445150FB2</string>
+    <string name="zz_price" translatable="false">2000</string>
+    <string name="zz_userId" translatable="false">50181</string>
+    <style name="payment_sdk_uucun_ResourcesLoadingProgress" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/payment_uucun_resource_progress_medium</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+        <item name="android:maxWidth">20dp</item>  
+    </style>
+    <style name="payment_sdk_uucun_theme_FullScreen_translucent" parent="android:Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>    
+    </style>
+    <style name="payment_uucun_HeaderTextTitle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">47dp</item>
+  		<item name="android:textSize">18sp</item>
+  		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:gravity">center_horizontal</item>
+  		<item name="android:layout_alignParentTop">true</item>
+  		<item name="android:shadowColor">#373535</item>
+  		<item name="android:shadowDx">0.4</item>
+		<item name="android:shadowDy">0.4</item>
+		<item name="android:shadowRadius">3</item>
+		<item name="android:background">@drawable/payment_uucun_header</item>
+		<item name="android:layout_centerHorizontal">true</item>
+		<item name="android:layout_marginTop">0dp</item>
+		<item name="android:paddingTop">6dp</item>
+ 	</style>
+    <style name="payment_uucun_NoTitleDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        
+         <item name="android:windowBackground">@color/payment_uucun_transparent</item>
+        <item name="android:windowIsTranslucent">true</item>    
+        <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+    </style>
+    <style name="payment_uucun_ResourcesLoadingProgress" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/payment_uucun_resource_progress_medium</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+        <item name="android:maxWidth">20dp</item>  
+    </style>
+    <style name="payment_uucun_theme_FullScreen" parent="android:Theme.Black">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>
+ 	
+        
+        <item name="android:windowBackground">@color/payment_uucun_transparent</item> 
+        <item name="android:windowIsTranslucent">true</item>    
+        <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+        
+    </style>
+    <style name="payment_uucun_theme_FullScreen_translucent" parent="android:Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>    
+    </style>
+</resources>
