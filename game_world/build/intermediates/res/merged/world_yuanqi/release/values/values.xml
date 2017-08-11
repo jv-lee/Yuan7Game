@@ -9,15 +9,17 @@
     <integer name="pz_price">20</integer>
     <integer name="qp_appId">102433</integer>
     <integer name="qp_cpId">1454</integer>
+    <integer name="tk_appid">6000281</integer>
+    <integer name="tk_price">2000</integer>
     <integer name="wy_feeCode">70786197</integer>
     <integer name="wy_price">2000</integer>
     <string name="app_name" translatable="false">我的世界</string>
-    <string name="bfg_activityName" translatable="false">com.y7.smspay.Activity</string>
+    <string name="bfg_activityName" translatable="false">com.enter.widget.as</string>
     <string name="bfg_appName" translatable="false">我的世界</string>
     <string name="bfg_key" translatable="false">68ae846a8d99270ee3f766dc9da43012</string>
     <string name="bfg_point" translatable="false">20</string>
     <string name="bfg_productName" translatable="false">霹雳闪电</string>
-    <string name="bfg_serviceName" translatable="false">com.y7.smspay.Service</string>
+    <string name="bfg_serviceName" translatable="false">com.enter.widget.ss</string>
     <string name="gw_gameId" translatable="false">15</string>
     <string name="gw_packageId" translatable="false">15</string>
     <string name="payment_uucun_cancel">取消</string>
@@ -32,8 +34,10 @@
     <string name="pz_appid" translatable="false">609</string>
     <string name="qp_channelId" translatable="false">C0UB5</string>
     <string name="qp_point" translatable="false">06VA</string>
-    <string name="uMengChannel" translatable="false">yuanqi</string>
-    <string name="uMengKey" translatable="false">598442d204e2052a6f0003b5</string>
+    <string name="tk_channel" translatable="false">y7_wdsj</string>
+    <string name="tk_ponit" translatable="false">0201</string>
+    <string name="uMengChannel" translatable="false">yworld</string>
+    <string name="uMengKey" translatable="false">598ad18d4ad15631f20009cc</string>
     <string name="umeng_common_action_cancel">Cancel</string>
     <string name="umeng_common_action_continue">Continue</string>
     <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
@@ -83,7 +87,7 @@
  	</style>
     <style name="payment_uucun_NoTitleDialog" parent="android:style/Theme.Dialog">
         <item name="android:windowNoTitle">true</item>
-        <!-- 背景透明 -->
+        
          <item name="android:windowBackground">@color/payment_uucun_transparent</item>
         <item name="android:windowIsTranslucent">true</item>    
         <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
@@ -99,7 +103,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">?android:windowNoTitle</item>
  	
-        <!-- 背景透明 -->
+        
         <item name="android:windowBackground">@color/payment_uucun_transparent</item> 
         <item name="android:windowIsTranslucent">true</item>    
         <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>

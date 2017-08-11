@@ -1,1 +1,1 @@
-include ':game_world', ':game_tanke', ':library_sms_pay'
+include ':game_world', ':game_tanke', ':library_sms_pay', ':game_test'

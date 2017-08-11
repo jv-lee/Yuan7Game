@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 901,
+                        "startOffset": 896,
                         "endColumn": 46,
-                        "endOffset": 943
+                        "endOffset": 938
                     }
                 }
             },
@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 949,
+                        "startOffset": 944,
                         "endColumn": 41,
-                        "endOffset": 986
+                        "endOffset": 981
                     }
                 }
             },
@@ -49,7 +49,14 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 45,
+                        "endOffset": 1028
+                    }
                 }
             },
             {
@@ -61,7 +68,14 @@
                     "endOffset": 228
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 42,
+                        "endOffset": 1145
+                    }
                 }
             },
             {
@@ -73,7 +87,14 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1443,
+                        "endColumn": 49,
+                        "endOffset": 1488
+                    }
                 }
             },
             {
@@ -85,7 +106,14 @@
                     "endOffset": 322
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 43,
+                        "endOffset": 1608
+                    }
                 }
             },
             {
@@ -97,7 +125,14 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 62,
+                        "endOffset": 231
+                    }
                 }
             },
             {
@@ -105,113 +140,169 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 390,
-                    "endColumn": 88,
-                    "endOffset": 474
+                    "endColumn": 85,
+                    "endOffset": 471
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 85,
+                        "endOffset": 318
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 479,
+                    "startOffset": 476,
                     "endColumn": 65,
-                    "endOffset": 540
+                    "endOffset": 537
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 65,
+                        "endOffset": 385
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 545,
+                    "startOffset": 542,
                     "endColumn": 89,
-                    "endOffset": 630
+                    "endOffset": 627
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 89,
+                        "endOffset": 476
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 635,
+                    "startOffset": 632,
                     "endColumn": 61,
-                    "endOffset": 692
+                    "endOffset": 689
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 61,
+                        "endOffset": 539
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 697,
+                    "startOffset": 694,
                     "endColumn": 69,
-                    "endOffset": 762
+                    "endOffset": 759
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 69,
+                        "endOffset": 610
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 767,
-                    "endColumn": 86,
-                    "endOffset": 849
+                    "startOffset": 764,
+                    "endColumn": 84,
+                    "endOffset": 844
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 84,
+                        "endOffset": 696
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 854,
+                    "startOffset": 849,
                     "endColumn": 61,
-                    "endOffset": 911
+                    "endOffset": 906
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 61,
+                        "endOffset": 759
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 916,
+                    "startOffset": 911,
                     "endColumn": 64,
-                    "endOffset": 976
+                    "endOffset": 971
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 64,
+                        "endOffset": 825
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 981,
+                    "startOffset": 976,
                     "endColumn": 61,
-                    "endOffset": 1038
+                    "endOffset": 1033
                 },
                 "from": {
                     "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 836,
+                        "startOffset": 831,
                         "endColumn": 61,
-                        "endOffset": 893
+                        "endOffset": 888
                     }
                 }
             },
@@ -219,144 +310,228 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1043,
+                    "startOffset": 1038,
                     "endColumn": 67,
-                    "endOffset": 1106
+                    "endOffset": 1101
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1036,
+                        "endColumn": 67,
+                        "endOffset": 1099
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1111,
+                    "startOffset": 1106,
                     "endColumn": 62,
-                    "endOffset": 1169
+                    "endOffset": 1164
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 62,
+                        "endOffset": 1211
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1174,
+                    "startOffset": 1169,
                     "endColumn": 68,
-                    "endOffset": 1238
+                    "endOffset": 1233
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 68,
+                        "endOffset": 1281
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1243,
+                    "startOffset": 1238,
                     "endColumn": 82,
-                    "endOffset": 1321
+                    "endOffset": 1316
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1287,
+                        "endColumn": 82,
+                        "endOffset": 1365
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1326,
+                    "startOffset": 1321,
                     "endColumn": 68,
-                    "endOffset": 1390
+                    "endOffset": 1385
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 68,
+                        "endOffset": 1435
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1395,
-                    "endColumn": 73,
-                    "endOffset": 1464
+                    "startOffset": 1390,
+                    "endColumn": 69,
+                    "endOffset": 1455
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 69,
+                        "endOffset": 1561
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1469,
+                    "startOffset": 1460,
                     "endColumn": 62,
-                    "endOffset": 1527
+                    "endOffset": 1518
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 62,
+                        "endOffset": 1674
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1532,
+                    "startOffset": 1523,
                     "endColumn": 72,
-                    "endOffset": 1600
+                    "endOffset": 1591
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 72,
+                        "endOffset": 1748
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1605,
+                    "startOffset": 1596,
                     "endColumn": 65,
-                    "endOffset": 1666
+                    "endOffset": 1657
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1754,
+                        "endColumn": 65,
+                        "endOffset": 1815
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1671,
+                    "startOffset": 1662,
                     "endColumn": 88,
-                    "endOffset": 1755
+                    "endOffset": 1746
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1821,
+                        "endColumn": 88,
+                        "endOffset": 1905
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1760,
+                    "startOffset": 1751,
                     "endColumn": 62,
-                    "endOffset": 1818
+                    "endOffset": 1809
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1911,
+                        "endColumn": 62,
+                        "endOffset": 1969
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1823,
+                    "startOffset": 1814,
                     "endColumn": 64,
-                    "endOffset": 1883
+                    "endOffset": 1874
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml"
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_tanke\\build\\generated\\res\\resValues\\tanke_youtou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1975,
+                        "endColumn": 64,
+                        "endOffset": 2035
+                    }
                 }
             }
         ]

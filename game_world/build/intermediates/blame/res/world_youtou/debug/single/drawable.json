@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_loading.png",
-        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_loading.png"
-    },
-    {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_sms_markwrods_bg.9.png",
         "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_sms_markwrods_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_loading.png",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_loading.png"
     },
     {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_sms_msg_bg.9.png",
@@ -64,12 +64,12 @@
         "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_sms_pay_bg.9.png"
     },
     {
-        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_from_left_to_right.xml",
-        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_from_left_to_right.xml"
-    },
-    {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\umeng_common_gradient_red.xml",
         "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_from_left_to_right.xml",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_from_left_to_right.xml"
     },
     {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_youtou\\debug\\drawable\\payment_uucun_splash.png",

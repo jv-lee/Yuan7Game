@@ -80,12 +80,12 @@
         "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
     },
     {
-        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\drawable\\payment_uucun_loading_0.png",
-        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_loading_0.png"
-    },
-    {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\drawable\\payment_uucun_sms_msg_bg.9.png",
         "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_sms_msg_bg.9.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\drawable\\payment_uucun_loading_0.png",
+        "source": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\drawable\\payment_uucun_loading_0.png"
     },
     {
         "merged": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\intermediates\\res\\merged\\world_yuanqi\\release\\drawable\\payment_uucun_sms_pay_bg.9.png",

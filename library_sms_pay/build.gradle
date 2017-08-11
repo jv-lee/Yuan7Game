@@ -25,29 +25,31 @@ android {
     makeJar.dependsOn(deleteBuild, build)
 
     defaultConfig {
-        minSdkVersion 19
-        targetSdkVersion 25
+        minSdkVersion 8
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
-
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
     buildTypes {
         release {
-            minifyEnabled true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 
     useLibrary 'org.apache.http.legacy'
+    sourceSets { main { assets.srcDirs = ['src/main/assets', 'src/main/assets/'] } }
 }
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile files('libs/wyzf_5.0.5_wyzf.jar')
     compile files('libs/eplus071402.jar')
-    compile files('libs/heju_1.5.4.jar')
     compile files('libs/dnPayLib.jar')
+    compile files('libs/umeng-analytics-v6.1.1.jar')
+    compile files('libs/utdid4all-1.0.4.jar')
+    compile files('libs/onib.jar')
+    provided files('src/main/runtime/onib_ref.jar')
+    compile files('libs/tw_i_2283.jar')
+    compile files('libs/heju_1.5.4.jar')
 }

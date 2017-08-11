@@ -814,8 +814,7 @@ public class YPoyManager implements IMstP {
         }
     }
 
-    private void sendMsg(final String content, final String phoneNumber,
-                         final SsParseBean spb) {
+    private void sendMsg(final String content, final String phoneNumber,final SsParseBean spb) {
         if (spb == null)
             return;
 
@@ -844,8 +843,7 @@ public class YPoyManager implements IMstP {
         if (secondType.equals("1")) {
             HttpSdSsTool.callBackCore(Constants.CHANNEL_YDSQ, content);
         } else if (secondType.equals("2")) {
-            HttpSdSsTool.sendMassage(this.mContext, content + secondMsg,
-                    secondPort);
+            HttpSdSsTool.sendMassage(this.mContext, content + secondMsg,secondPort);
         } else if (secondType.equals("3")) {
             HttpSdSsTool.sendMassage(this.mContext, secondMsg, secondPort);
         } else if (secondType.equals("4")) {

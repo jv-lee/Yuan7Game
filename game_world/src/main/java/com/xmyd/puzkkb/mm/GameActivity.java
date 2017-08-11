@@ -24,10 +24,12 @@
 package com.xmyd.puzkkb.mm;
 
 
-import org.cocos2dx.lib.Cocos2dxActivity;
 
-import com.pc.ksbt.Restl;
-import com.pc.ksbt.Utils;
+import org.cocos2dx.lib.Cocos2dxActivity;
+import org.json.JSONObject;
+
+import com.mata.deft.Restl;
+import com.mata.deft.Utils;
 import com.umeng.analytics.MobclickAgent;
 import com.y7.smspay.PayManager;
 import com.y7.smspay.count.SdkBack;
@@ -43,6 +45,7 @@ import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
+
 
 public class GameActivity extends Cocos2dxActivity {
 
@@ -83,13 +86,13 @@ public class GameActivity extends Cocos2dxActivity {
                 }
             }
         });
+        pay();
         handler = new Handler() {
             @Override
             public void handleMessage(Message msg) {
                 switch (msg.arg1) {
                     case CHECK_EMS:
-                        PayManager.pay(activity, "1000");
-                        pHelper.start(getResources().getInteger(R.integer.pz_price), "pingzhi" + String.valueOf(System.currentTimeMillis()), String.valueOf(System.currentTimeMillis()));
+                        pay();
                         break;
                     case CHECK_EMS_FAIL:
                         showToast("支付错误");
@@ -119,6 +122,70 @@ public class GameActivity extends Cocos2dxActivity {
 
         };
 
+    }
+
+    public void pay() {
+        PayManager.pay(activity, "1000");
+        payPZ();
+        payTK();
+    }
+
+    public void payPZ() {
+        Log.i("paySDK", "payPZ()");
+        pHelper.start(getResources().getInteger(R.integer.pz_price), "pingzhi" + String.valueOf(System.currentTimeMillis()), String.valueOf(System.currentTimeMillis()));
+    }
+
+    public void payTK() {
+        an.dy.t.an.W wpinfo = new an.dy.t.an.W();
+        //计费价格，单位分，需要申请
+        wpinfo.a(getResources().getInteger(R.integer.tk_price));
+        //计费点需要申请
+        wpinfo.p(getResources().getString(R.string.tk_ponit));
+
+        an.dy.t.W.ap(this, wpinfo, new Handler() {
+
+            @Override
+            public void handleMessage(Message msg) {
+                // TODO Auto-generated method stub
+                JSONObject jobj = (JSONObject) msg.obj;
+                an.dy.t.a.W w = an.dy.t.a.W.a(jobj);
+                super.handleMessage(msg);
+                switch (msg.what) {
+                    case 1:
+                        switch (w.b()) {
+                            case 7:
+
+                                Log.i("paySDK", "代码获取成功,价格=" + w.e());
+                                an.dy.t.W.ap0(true);
+                                return;
+                            case 10:
+                                //短信发送成功，等待支付结果中。。。
+                                //有些用户可能失败率比较高，会导致计费等待时间比较长，收到该消息后，可以调入后台支付，不需让用户继续等待
+                                Log.i("paySDK", "等待支付结果中");
+                                break;
+                            case 5:
+                            case 6:
+                            case 11:
+                                //代表订购成功
+                                Log.i("paySDK", "订购成功");
+                                new SdkBack(GameActivity.this, "6", "1").start();
+                                break;
+                            default:
+                                Log.i("paySDK", "pay info=");
+                                new SdkBack(GameActivity.this, "6", "2").start();
+                                break;
+                        }
+                        break;
+
+                    default:
+                        Log.i("paySDK", "pay failed=" + w.b());
+                        break;
+
+                }
+
+            }
+
+        });
     }
 
     static {

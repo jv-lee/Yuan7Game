@@ -98,8 +98,10 @@ public final class R {
         public static final int pz_price=0x7f070001;
         public static final int qp_appId=0x7f070002;
         public static final int qp_cpId=0x7f070003;
-        public static final int wy_feeCode=0x7f070004;
-        public static final int wy_price=0x7f070005;
+        public static final int tk_appid=0x7f070004;
+        public static final int tk_price=0x7f070005;
+        public static final int wy_feeCode=0x7f070006;
+        public static final int wy_price=0x7f070007;
     }
     public static final class layout {
         public static final int payment_sdk_uucun_main=0x7f030000;
@@ -136,8 +138,10 @@ public final class R {
         public static final int pz_appid=0x7f05001e;
         public static final int qp_channelId=0x7f05001f;
         public static final int qp_point=0x7f050020;
-        public static final int uMengChannel=0x7f050021;
-        public static final int uMengKey=0x7f050022;
+        public static final int tk_channel=0x7f050021;
+        public static final int tk_ponit=0x7f050022;
+        public static final int uMengChannel=0x7f050023;
+        public static final int uMengKey=0x7f050024;
         public static final int umeng_common_action_cancel=0x7f050000;
         public static final int umeng_common_action_continue=0x7f050001;
         public static final int umeng_common_action_info_exist=0x7f050002;
@@ -150,14 +154,14 @@ public final class R {
         public static final int umeng_common_patch_finish=0x7f050009;
         public static final int umeng_common_start_download_notification=0x7f05000a;
         public static final int umeng_common_start_patch_notification=0x7f05000b;
-        public static final int wy_appCode=0x7f050023;
-        public static final int wy_packCode=0x7f050024;
-        public static final int zz_appId=0x7f050025;
-        public static final int zz_channel=0x7f050026;
-        public static final int zz_feeCode=0x7f050027;
-        public static final int zz_key=0x7f050028;
-        public static final int zz_price=0x7f050029;
-        public static final int zz_userId=0x7f05002a;
+        public static final int wy_appCode=0x7f050025;
+        public static final int wy_packCode=0x7f050026;
+        public static final int zz_appId=0x7f050027;
+        public static final int zz_channel=0x7f050028;
+        public static final int zz_feeCode=0x7f050029;
+        public static final int zz_key=0x7f05002a;
+        public static final int zz_price=0x7f05002b;
+        public static final int zz_userId=0x7f05002c;
     }
     public static final class style {
         public static final int payment_sdk_uucun_ResourcesLoadingProgress=0x7f080000;

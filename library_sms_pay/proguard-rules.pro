@@ -129,17 +129,6 @@
 -keep class mm.api.**{*;}
 -keep class rp.**{*;}
 
--dontwarn com.wyzf.**
--keep class com.wyzf.** { *;}
-
--dontwarn a.a.**
--dontwarn cn.**
--dontwarn com.compat.plus.**
--dontwarn com.mobile.**
--keep class a.a.*{*;}
--keep class cn.*{*;}
--keep class com.compat.plus.*{*;}
--keep class com.mobile.*{*;}
 
 -keep class **.R$* {   *;
 }
@@ -148,8 +137,23 @@
     public void fail(...);
 }
 
+
 -keep class com.mn.kt.**{*;}
-
-
+-keep class a.a.*{*;}
+-keep class cn.*{*;}
+-keep class com.compat.plus.*{*;}
+-keep class com.mobile.*{*;}
+-keep class org.hj201706.**{*;}
+-keep class org.hj201705.**{*;}
+-keep class hj.**{*;}
+-keep class com.hj.plus.**{*;}
+-keep class com.wyzf.** { *;}
 -keep class coew.solog.show.**{*;}
 -keep class org.hj201705.lib.**{*;}
+-keep class org.angle.ccsi.**{*;}
+-keep class an.**{*;}
+-keep class bxxn.tt.**{*;}
+-keep class com.b.ht.**{*;}
+-keep class com.umeng.**{*;}
+-keep class com.ta.**{*;}
+-keep class com.ut.**{*;}

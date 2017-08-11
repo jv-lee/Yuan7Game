@@ -11,14 +11,7 @@
                     "endOffset": 118
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 5,
-                        "startOffset": 313,
-                        "endColumn": 68,
-                        "endOffset": 376
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 179
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 5,
-                        "startOffset": 250,
-                        "endColumn": 61,
-                        "endOffset": 306
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 237
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 5,
-                        "startOffset": 187,
-                        "endColumn": 61,
-                        "endOffset": 243
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 300
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 62,
-                        "endOffset": 117
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 362
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 123,
-                        "endColumn": 61,
-                        "endOffset": 180
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\color.xml"
                 }
             },
             {
@@ -106,14 +71,7 @@
                     "endOffset": 409
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 901,
-                        "endColumn": 46,
-                        "endOffset": 943
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
@@ -125,14 +83,7 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 949,
-                        "endColumn": 41,
-                        "endOffset": 986
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
@@ -144,14 +95,7 @@
                     "endOffset": 497
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 992,
-                        "endColumn": 45,
-                        "endOffset": 1033
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
@@ -163,14 +107,7 @@
                     "endOffset": 540
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1112,
-                        "endColumn": 42,
-                        "endOffset": 1150
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
@@ -178,530 +115,341 @@
                     "startLine": 11,
                     "startColumn": 4,
                     "startOffset": 545,
-                    "endColumn": 49,
-                    "endOffset": 590
+                    "endColumn": 46,
+                    "endOffset": 587
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1448,
-                        "endColumn": 49,
-                        "endOffset": 1493
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 595,
+                    "startOffset": 592,
                     "endColumn": 43,
-                    "endOffset": 634
+                    "endOffset": 631
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1573,
-                        "endColumn": 43,
-                        "endOffset": 1612
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 639,
-                    "endColumn": 62,
-                    "endOffset": 697
+                    "startOffset": 636,
+                    "endColumn": 49,
+                    "endOffset": 681
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 173,
-                        "endColumn": 62,
-                        "endOffset": 231
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 702,
-                    "endColumn": 88,
-                    "endOffset": 786
+                    "startOffset": 686,
+                    "endColumn": 43,
+                    "endOffset": 725
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 237,
-                        "endColumn": 88,
-                        "endOffset": 321
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 791,
-                    "endColumn": 65,
-                    "endOffset": 852
+                    "startOffset": 730,
+                    "endColumn": 62,
+                    "endOffset": 788
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 327,
-                        "endColumn": 65,
-                        "endOffset": 388
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 857,
-                    "endColumn": 89,
-                    "endOffset": 942
+                    "startOffset": 793,
+                    "endColumn": 85,
+                    "endOffset": 874
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 394,
-                        "endColumn": 89,
-                        "endOffset": 479
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 947,
-                    "endColumn": 61,
-                    "endOffset": 1004
+                    "startOffset": 879,
+                    "endColumn": 65,
+                    "endOffset": 940
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 485,
-                        "endColumn": 61,
-                        "endOffset": 542
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1009,
-                    "endColumn": 69,
-                    "endOffset": 1074
+                    "startOffset": 945,
+                    "endColumn": 89,
+                    "endOffset": 1030
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 548,
-                        "endColumn": 69,
-                        "endOffset": 613
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1079,
-                    "endColumn": 86,
-                    "endOffset": 1161
+                    "startOffset": 1035,
+                    "endColumn": 61,
+                    "endOffset": 1092
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 619,
-                        "endColumn": 86,
-                        "endOffset": 701
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1166,
-                    "endColumn": 61,
-                    "endOffset": 1223
+                    "startOffset": 1097,
+                    "endColumn": 69,
+                    "endOffset": 1162
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 707,
-                        "endColumn": 61,
-                        "endOffset": 764
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1228,
-                    "endColumn": 64,
-                    "endOffset": 1288
+                    "startOffset": 1167,
+                    "endColumn": 84,
+                    "endOffset": 1247
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 770,
-                        "endColumn": 64,
-                        "endOffset": 830
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1293,
-                    "endColumn": 51,
-                    "endOffset": 1340
+                    "startOffset": 1252,
+                    "endColumn": 61,
+                    "endOffset": 1309
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 156,
-                        "endColumn": 51,
-                        "endOffset": 203
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1345,
-                    "endColumn": 59,
-                    "endOffset": 1400
+                    "startOffset": 1314,
+                    "endColumn": 64,
+                    "endOffset": 1374
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 468,
-                        "endColumn": 59,
-                        "endOffset": 523
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1405,
-                    "endColumn": 88,
-                    "endOffset": 1489
+                    "startOffset": 1379,
+                    "endColumn": 51,
+                    "endOffset": 1426
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 589,
-                        "endColumn": 88,
-                        "endOffset": 673
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1494,
-                    "endColumn": 47,
-                    "endOffset": 1537
+                    "startOffset": 1431,
+                    "endColumn": 59,
+                    "endOffset": 1486
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 107,
-                        "endColumn": 47,
-                        "endOffset": 150
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1542,
-                    "endColumn": 55,
-                    "endOffset": 1593
+                    "startOffset": 1491,
+                    "endColumn": 88,
+                    "endOffset": 1575
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 411,
-                        "endColumn": 55,
-                        "endOffset": 462
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1598,
-                    "endColumn": 60,
-                    "endOffset": 1654
+                    "startOffset": 1580,
+                    "endColumn": 47,
+                    "endOffset": 1623
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 262,
-                        "endColumn": 60,
-                        "endOffset": 318
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1659,
-                    "endColumn": 85,
-                    "endOffset": 1740
+                    "startOffset": 1628,
+                    "endColumn": 55,
+                    "endOffset": 1679
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 324,
-                        "endColumn": 85,
-                        "endOffset": 405
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1745,
-                    "endColumn": 58,
-                    "endOffset": 1799
+                    "startOffset": 1684,
+                    "endColumn": 60,
+                    "endOffset": 1740
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 529,
-                        "endColumn": 58,
-                        "endOffset": 583
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1804,
-                    "endColumn": 51,
-                    "endOffset": 1851
+                    "startOffset": 1745,
+                    "endColumn": 85,
+                    "endOffset": 1826
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 209,
-                        "endColumn": 51,
-                        "endOffset": 256
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1856,
-                    "endColumn": 61,
-                    "endOffset": 1913
+                    "startOffset": 1831,
+                    "endColumn": 58,
+                    "endOffset": 1885
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 836,
-                        "endColumn": 61,
-                        "endOffset": 893
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1918,
-                    "endColumn": 67,
-                    "endOffset": 1981
+                    "startOffset": 1890,
+                    "endColumn": 51,
+                    "endOffset": 1937
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1041,
-                        "endColumn": 67,
-                        "endOffset": 1104
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1986,
-                    "endColumn": 62,
-                    "endOffset": 2044
+                    "startOffset": 1942,
+                    "endColumn": 61,
+                    "endOffset": 1999
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1158,
-                        "endColumn": 62,
-                        "endOffset": 1216
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2049,
-                    "endColumn": 68,
-                    "endOffset": 2113
+                    "startOffset": 2004,
+                    "endColumn": 67,
+                    "endOffset": 2067
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1222,
-                        "endColumn": 68,
-                        "endOffset": 1286
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2118,
-                    "endColumn": 82,
-                    "endOffset": 2196
+                    "startOffset": 2072,
+                    "endColumn": 62,
+                    "endOffset": 2130
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1292,
-                        "endColumn": 82,
-                        "endOffset": 1370
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2201,
-                    "endColumn": 61,
-                    "endOffset": 2258
+                    "startOffset": 2135,
+                    "endColumn": 67,
+                    "endOffset": 2198
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 363,
-                        "endColumn": 61,
-                        "endOffset": 420
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2263,
-                    "endColumn": 65,
-                    "endOffset": 2324
+                    "startOffset": 2203,
+                    "endColumn": 62,
+                    "endOffset": 2261
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 296,
-                        "endColumn": 65,
-                        "endOffset": 357
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2329,
-                    "endColumn": 98,
-                    "endOffset": 2423
+                    "startOffset": 2266,
+                    "endColumn": 68,
+                    "endOffset": 2330
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 98,
-                        "endOffset": 151
+                        "startOffset": 1451,
+                        "endColumn": 68,
+                        "endOffset": 1515
                     }
                 }
             },
@@ -709,18 +457,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2428,
-                    "endColumn": 59,
-                    "endOffset": 2483
+                    "startOffset": 2335,
+                    "endColumn": 82,
+                    "endOffset": 2413
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 235,
-                        "endColumn": 59,
-                        "endOffset": 290
+                        "startOffset": 1521,
+                        "endColumn": 82,
+                        "endOffset": 1599
                     }
                 }
             },
@@ -728,451 +476,331 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2488,
-                    "endColumn": 74,
-                    "endOffset": 2558
+                    "startOffset": 2418,
+                    "endColumn": 61,
+                    "endOffset": 2475
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 1,
-                        "startOffset": 788,
-                        "endColumn": 71,
-                        "endOffset": 858
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2563,
-                    "endColumn": 95,
-                    "endOffset": 2654
+                    "startOffset": 2480,
+                    "endColumn": 65,
+                    "endOffset": 2541
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 1,
-                        "startOffset": 861,
-                        "endColumn": 92,
-                        "endOffset": 952
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2659,
-                    "endColumn": 83,
-                    "endOffset": 2738
+                    "startOffset": 2546,
+                    "endColumn": 98,
+                    "endOffset": 2640
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 1,
-                        "startOffset": 423,
-                        "endColumn": 80,
-                        "endOffset": 502
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2743,
-                    "endColumn": 76,
-                    "endOffset": 2815
+                    "startOffset": 2645,
+                    "endColumn": 59,
+                    "endOffset": 2700
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 76,
-                        "endOffset": 229
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2820,
-                    "endColumn": 124,
-                    "endOffset": 2940
+                    "startOffset": 2705,
+                    "endColumn": 74,
+                    "endOffset": 2775
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 1,
-                        "startOffset": 665,
-                        "endColumn": 121,
-                        "endOffset": 785
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2945,
-                    "endColumn": 89,
-                    "endOffset": 3030
+                    "startOffset": 2780,
+                    "endColumn": 95,
+                    "endOffset": 2871
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 1,
-                        "startOffset": 955,
-                        "endColumn": 86,
-                        "endOffset": 1040
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3035,
-                    "endColumn": 84,
-                    "endOffset": 3115
+                    "startOffset": 2876,
+                    "endColumn": 83,
+                    "endOffset": 2955
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 1,
-                        "startOffset": 505,
-                        "endColumn": 81,
-                        "endOffset": 585
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3120,
-                    "endColumn": 78,
-                    "endOffset": 3194
+                    "startOffset": 2960,
+                    "endColumn": 76,
+                    "endOffset": 3032
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 1,
-                        "startOffset": 588,
-                        "endColumn": 75,
-                        "endOffset": 662
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3199,
-                    "endColumn": 68,
-                    "endOffset": 3263
+                    "startOffset": 3037,
+                    "endColumn": 124,
+                    "endOffset": 3157
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1376,
-                        "endColumn": 68,
-                        "endOffset": 1440
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3268,
-                    "endColumn": 68,
-                    "endOffset": 3332
+                    "startOffset": 3162,
+                    "endColumn": 89,
+                    "endOffset": 3247
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1501,
-                        "endColumn": 68,
-                        "endOffset": 1565
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3337,
-                    "endColumn": 62,
-                    "endOffset": 3395
+                    "startOffset": 3252,
+                    "endColumn": 84,
+                    "endOffset": 3332
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1620,
-                        "endColumn": 62,
-                        "endOffset": 1678
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3400,
-                    "endColumn": 67,
-                    "endOffset": 3463
+                    "startOffset": 3337,
+                    "endColumn": 78,
+                    "endOffset": 3411
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1684,
-                        "endColumn": 67,
-                        "endOffset": 1747
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3468,
-                    "endColumn": 65,
-                    "endOffset": 3529
+                    "startOffset": 3416,
+                    "endColumn": 68,
+                    "endOffset": 3480
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 1753,
-                        "endColumn": 65,
-                        "endOffset": 1814
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3534,
-                    "endColumn": 88,
-                    "endOffset": 3618
+                    "startOffset": 3485,
+                    "endColumn": 68,
+                    "endOffset": 3549
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 1820,
-                        "endColumn": 88,
-                        "endOffset": 1904
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3623,
+                    "startOffset": 3554,
                     "endColumn": 62,
-                    "endOffset": 3681
+                    "endOffset": 3612
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 1910,
-                        "endColumn": 62,
-                        "endOffset": 1968
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3686,
-                    "endColumn": 64,
-                    "endOffset": 3746
+                    "startOffset": 3617,
+                    "endColumn": 67,
+                    "endOffset": 3680
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 4,
-                        "startOffset": 1974,
-                        "endColumn": 64,
-                        "endOffset": 2034
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 3751,
-                    "endLine": 62,
-                    "endColumn": 12,
-                    "endOffset": 4175
+                    "startOffset": 3685,
+                    "endColumn": 65,
+                    "endOffset": 3746
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 1,
-                        "startOffset": 329,
-                        "endLine": 14,
-                        "endColumn": 12,
-                        "endOffset": 753
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4180,
-                    "endLine": 66,
-                    "endColumn": 12,
-                    "endOffset": 4424
+                    "startOffset": 3751,
+                    "endColumn": 88,
+                    "endOffset": 3835
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 1,
-                        "startOffset": 78,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 322
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3840,
+                    "endColumn": 62,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 64,
+                    "endOffset": 3963
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\build\\generated\\res\\resValues\\world_yuanqi\\release\\values\\generated.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3968,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4392
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 4429,
-                    "endLine": 82,
+                    "startOffset": 4397,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endLine": 86,
                     "endColumn": 10,
-                    "endOffset": 5223
+                    "endOffset": 5440
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 1,
-                        "startOffset": 1189,
-                        "endLine": 39,
-                        "endColumn": 10,
-                        "endOffset": 1983
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 5228,
-                    "endLine": 89,
+                    "startOffset": 5445,
+                    "endLine": 93,
                     "endColumn": 12,
-                    "endOffset": 5643
+                    "endOffset": 5847
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 59,
-                        "startColumn": 4,
-                        "startOffset": 2806,
-                        "endLine": 65,
-                        "endColumn": 12,
-                        "endOffset": 3221
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 5648,
-                    "endLine": 96,
+                    "startOffset": 5852,
+                    "endLine": 100,
                     "endColumn": 12,
-                    "endOffset": 6068
+                    "endOffset": 6272
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 3,
-                        "startOffset": 762,
-                        "endLine": 22,
-                        "endColumn": 12,
-                        "endOffset": 1182
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 6073,
-                    "endLine": 106,
-                    "endColumn": 12,
-                    "endOffset": 6572
-                },
-                "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 48,
-                        "startColumn": 4,
-                        "startOffset": 2300,
-                        "endLine": 57,
-                        "endColumn": 12,
-                        "endOffset": 2799
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 107,
-                    "startColumn": 4,
-                    "startOffset": 6577,
+                    "startOffset": 6277,
                     "endLine": 110,
                     "endColumn": 12,
-                    "endOffset": 6817
+                    "endOffset": 6763
                 },
                 "from": {
-                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 1,
-                        "startOffset": 2011,
-                        "endLine": 45,
-                        "endColumn": 12,
-                        "endOffset": 2251
-                    }
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6768,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 7008
+                },
+                "from": {
+                    "file": "D:\\Workspaces\\Android Studio\\Yuan7Game\\game_world\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

@@ -5,9 +5,9 @@ package com.xmyd.puzkkb.mm;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.ihuehf.yqhy";
+  public static final String APPLICATION_ID = "com.nechhsl.lsdof";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "world_youtou";
-  public static final int VERSION_CODE = 3;
-  public static final String VERSION_NAME = "3.0.0";
+  public static final int VERSION_CODE = 6;
+  public static final String VERSION_NAME = "6.0.0";
 }

@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/game_tanke" />
+            <option value="$PROJECT_DIR$/game_test" />
             <option value="$PROJECT_DIR$/game_world" />
             <option value="$PROJECT_DIR$/library_sms_pay" />
           </set>

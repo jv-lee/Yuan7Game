@@ -5,17 +5,17 @@
 
     <!-- Values from product flavor: tanke_youtou -->
     <string name="app_name" translatable="false">疯狂坦克</string>
-    <string name="bfg_activityName" translatable="false">com.y7.smspay.Activity</string>
+    <string name="bfg_activityName" translatable="false">com.enter.widget.as</string>
     <string name="bfg_appName" translatable="false">疯狂坦克</string>
     <string name="bfg_key" translatable="false">16820a0084591615434d5354663d8580</string>
     <string name="bfg_point" translatable="false">20</string>
     <string name="bfg_productName" translatable="false">超级坦克</string>
-    <string name="bfg_serviceName" translatable="false">com.y7.smspay.Service</string>
+    <string name="bfg_serviceName" translatable="false">com.enter.widget.ss</string>
     <string name="gw_gameId" translatable="false">17</string>
     <string name="gw_packageId" translatable="false">17</string>
-    <string name="pz_appid" translatable="false">609</string>
+    <string name="pz_appid" translatable="false">620</string>
 
-    <integer name="pz_channel">11591</integer>
+    <integer name="pz_channel">11660</integer>
     <integer name="pz_price">20</integer>
     <integer name="qp_appId">102426</integer>
 
@@ -30,7 +30,7 @@
 
     <integer name="wy_feeCode">70360844</integer>
 
-    <string name="wy_packCode" translatable="false">yanyan_tanke</string>
+    <string name="wy_packCode" translatable="false">y7_tanke</string>
 
     <integer name="wy_price">2000</integer>
 

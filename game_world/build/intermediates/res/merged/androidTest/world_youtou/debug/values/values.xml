@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="pz_channel">11591</integer>
+    <integer name="pz_channel">11661</integer>
     <integer name="pz_price">20</integer>
     <integer name="qp_appId">102433</integer>
     <integer name="qp_cpId">1454</integer>
+    <integer name="tk_appid">6000281</integer>
+    <integer name="tk_price">2000</integer>
     <integer name="wy_feeCode">70786197</integer>
     <integer name="wy_price">2000</integer>
     <string name="app_name" translatable="false">我的世界</string>
-    <string name="bfg_activityName" translatable="false">com.y7.smspay.Activity</string>
+    <string name="bfg_activityName" translatable="false">com.enter.widget.as</string>
     <string name="bfg_appName" translatable="false">我的世界</string>
     <string name="bfg_key" translatable="false">e43ec674bd25ea60db94bc5866ccfd7e</string>
     <string name="bfg_point" translatable="false">20</string>
     <string name="bfg_productName" translatable="false">霹雳闪电</string>
-    <string name="bfg_serviceName" translatable="false">com.y7.smspay.Service</string>
+    <string name="bfg_serviceName" translatable="false">com.enter.widget.ss</string>
     <string name="gw_gameId" translatable="false">18</string>
     <string name="gw_packageId" translatable="false">18</string>
     <string name="pz_appid" translatable="false">609</string>
     <string name="qp_channelId" translatable="false">C0UBW</string>
     <string name="qp_point" translatable="false">06VA</string>
+    <string name="tk_channel" translatable="false">yanyan_wdsj</string>
+    <string name="tk_ponit" translatable="false">0201</string>
     <string name="uMengChannel" translatable="false">yanyan</string>
-    <string name="uMengKey" translatable="false">5981806b45297d395f000747</string>
+    <string name="uMengKey" translatable="false">598405d299f0c73e49000d3b</string>
     <string name="wy_appCode" translatable="false">20883518</string>
     <string name="wy_packCode" translatable="false">yanyan_wdsj</string>
     <string name="zz_appId" translatable="false">1640</string>

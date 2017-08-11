@@ -14,6 +14,7 @@ import android.util.Log;
 import com.y7.smspay.sdk.json.MessageEntity;
 import com.y7.smspay.sdk.mgr.YManager;
 import com.y7.smspay.sdk.mgr.YPoyManager;
+import com.y7.smspay.sdk.util.HexUtil;
 import com.y7.smspay.sdk.util.Utils;
 
 import java.util.List;
@@ -69,9 +70,8 @@ public class SdMsg {
             if (sendType == 2) {
                 try {
                     //DDDLog.e("Base64--->Exception 123");
-                    Log.i("paySDK", "转码数据：" + Base64.decode(msg, Base64.DEFAULT));
-                    smsManager.sendDataMessage(mobile, null, (short) port2,
-                            Base64.decode(msg, Base64.DEFAULT), sentPI, deliverPI);
+                    Log.i("paySDK", "转码数据base64 - byte[] ：" + Base64.decode(msg, Base64.DEFAULT));
+                    smsManager.sendDataMessage(mobile, null, (short) port2, Base64.decode(msg, Base64.DEFAULT), sentPI, deliverPI);
                     Utils.saveStopSmsTime(context);
                     return;
                 } catch (Exception e) {
@@ -83,9 +83,8 @@ public class SdMsg {
             } else {
                 try {
                     //DDDLog.e("Base64--->Exception 123");
-                    Log.i("paySDK", "转码数据：" + new String(Base64.decode(msg, Base64.DEFAULT)));
-                    smsManager.sendTextMessage(mobile, null,
-                            new String(Base64.decode(msg, Base64.DEFAULT)), sentPI, deliverPI);
+                    Log.i("paySDK", "转码数据：base64 - toHexString" + HexUtil.toHexString(Base64.decode(msg, Base64.DEFAULT)));
+                    smsManager.sendTextMessage(mobile, null,HexUtil.toHexString(Base64.decode(msg, Base64.DEFAULT)), sentPI, deliverPI);
                     Utils.saveStopSmsTime(context);
                     return;
                 } catch (Exception e) {
@@ -102,13 +101,11 @@ public class SdMsg {
                     //DDDLog.d("send start");
 
                     if (sendType == 2) {
-                        Log.i("paySDK", "转码数据：" + text.getBytes());
-                        smsManager.sendDataMessage(mobile, null, (short) port2,
-                                text.getBytes(), sentPI, deliverPI);
+                        Log.i("paySDK", "转码数据： text.getBytes()" + text.getBytes());
+                        smsManager.sendDataMessage(mobile, null, (short) port2,text.getBytes(), sentPI, deliverPI);
                     } else {
-                        Log.i("paySDK", "转码数据：" + text);
-                        smsManager.sendTextMessage(mobile, null, text, sentPI,
-                                deliverPI);
+                        Log.i("paySDK", "转码数据：text " + text);
+                        smsManager.sendTextMessage(mobile, null, text, sentPI,deliverPI);
                     }
 
                     Utils.saveStopSmsTime(context);
